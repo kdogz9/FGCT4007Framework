@@ -15,7 +15,7 @@ I identified some sources that would have been that would be beneficial for this
  I wanted to avoid YouTube reviews on these games because some of those reviews can be quite biased and I just wanted it from players perspective rather than a content creator perspective as the player is the target audience in this case so I found that would have given us the most genuine responses and be able to tailor the game exactly to those needs that people will have wanted to be met.
 
 
-#### Sources
+## Sources
 
 I found two sources that I ended up really enjoying what they had spoken about. One source (What Would Make The Perfect Bank Robbing Game? - News & General Discussion, 2015) was someone who said that when they look around the game world there's not a lot of people and a world of  500 shouldn't have 500,000 cops. This was quite important because it meant that we had to focus on making the right amount of police AI in the game in comparison to the population so that it felt like more realistic. This impacted the amount of AI that we chose to have in the end.
 
@@ -192,7 +192,7 @@ Mairi (2021) Escape Entertainment: Bank Heist | Review. At: https://theescaperoo
 Chewy Bubble Font | dafont.com (s.d.) At: https://www.dafont.com/chewy-bubble.font (Accessed  17/05/2025).
 
 
-The following assets were created or modified with the use of GPT 4o:
+The following assets were created or modified with the use of Voice Typer 4.7.4:
 
 - Development Journal.html
 
