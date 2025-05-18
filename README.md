@@ -39,9 +39,11 @@ When we were given this project I started by making a figma board (Figma, s.d.) 
 
  We also had a Milanote (Campbell, s.d.) where we have all of our sources and our ideas and our planning down as well so that we were all on the same track. This avoided miscommunication which allowed the group to flow quite well when it came to making the game.
 
- ![ ](image-3.png)
+ <img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-3.png?token=GHSAT0AAAAAADDA7RNHEX3T667SYZTJULIY2BJZZBA" alt="Milanote">
+<p>Figure 2. Milanote for each week of the project.<p>
 
-<p><img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image.png?token=GHSAT0AAAAAADDA7RNGWRXBDHI35ATNOSL22BJZQOQ" alt="Open door code"></p>
+(image-4.png)
+<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image.png?token=GHSAT0AAAAAADDA7RNHYUU2MY2JXTTZJNIQ2BJZ2RA" alt="Open door code">
 <p>Figure .</p> 
 
 ### What creative or technical approaches did you use or try, and how did this contribute to the outcome?
