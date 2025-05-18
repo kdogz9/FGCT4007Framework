@@ -42,19 +42,95 @@ When we were given this project I started by making a figma board (Figma, s.d.) 
  <img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-3.png?token=GHSAT0AAAAAADDA7RNHEX3T667SYZTJULIY2BJZZBA" alt="Milanote">
 <p>Figure 2. Milanote for each week of the project.<p>
 
-After the planning had been done for this project, I started on making the code for a computer screen where the player presses E to interact with it and the UI comes up in the viewport to show the status of whether the Vault is locked or unlocked.
-<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-4.png?token=GHSAT0AAAAAADDA7RNHWWFDEMK4QEI5JLHQ2BJ2E3A" alt="Computer screen">
+After the planning had been done for this project, I started on making the code for a computer screen where the player presses E to interact with it and the UI comes up in the viewport to show the status of whether the Vault is locked or unlocked.(UNREAL ENGINE 5 HOW TO PICKUP AND READ NOTES TUTORIAL, 2023)
+<iframe src="https://blueprintue.com/render/rs6p_6kl/" scrolling="no" allowfullscreen></iframe>
+
 <img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-5.png?token=GHSAT0AAAAAADDA7RNGSUTQ35YDUEQPMM2C2BJ2ITA" alt="Computer screen UI">
 <p>Figure 3. Computer screen code for when the player interacts with it and the UI which appears.<p>
 
 I then changed the UI of the existing dialogue system to make it match the theme of our game.
 
-![ ](image-6.png)
+<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-6.png?token=GHSAT0AAAAAADDA7RNHYJLNZFF4ZAOGHLUY2BJ2RPQ" alt="NPC UI">
+<p>Figure 4. NPC UI
 
+After this I thought it would be a good idea to make normal doors  be interactive by using the e key as well as also having a code door and a key card door. I wanted to make it feel a bit more immersive by being able to open the other doors as well.(Open and Close Door Tutorial in Unreal Engine 5, 2024)
 
+<iframe src="https://blueprintue.com/render/viefp88e/" scrolling="no" allowfullscreen></iframe>
 
-<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image.png?token=GHSAT0AAAAAADDA7RNHYUU2MY2JXTTZJNIQ2BJZ2RA" alt="Open door code">
-<p>Figure .</p> 
+<p>Figure 5. Opening normal doors code </p> 
+
+Doing this gave me experience with using timelines. When it came to making the key pad system for the code door it roughly used the same code apart from adding a widget and making the buttons interactive in the widget so this was easier to pick up and took me less time as I had an idea on what to do already. (Open Doors With A Password In Unreal Engine 5 Using Blueprints, 2023) 
+
+<iframe src="https://blueprintue.com/render/_r-ylxjz/" scrolling="no" allowfullscreen></iframe>
+
+<p>Figure 6. Key pad door code <p>
+
+<iframe src="https://blueprintue.com/render/584gmedo/" scrolling="no" allowfullscreen></iframe>
+
+<p>Figure 7. Widget buttons code <p>
+
+Then I moved on to making CCTV cameras using a render target material (How To Create Dynamic CCTV/Security Cameras In Unreal Engine 5 (Tutorial), 2024) and made a button so that when it was pressed it added extra time onto the timer and changed the render target material to black to show that the cameras had been turned off and thus affecting the police arrival by adding extra time onto the timer.
+
+<iframe src="https://blueprintue.com/render/wq2bphrt/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 8. Code to set the material of the camera screens.<p>
+
+<iframe src="https://blueprintue.com/render/d0c_phwr/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 9. Code for the cameras to capture the scene and create the render target material<p>
+
+<iframe src="https://blueprintue.com/render/4timtkh9/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 10. Code for the button to add extra time and change the material of the screens<p>
+
+I added a gun system onto the first person character just to make it easier and neater for the code aspect and I experimented with the Niagara system in unreal to add particles to act as water to make it a water gun rather than adding bullets. This was quite a tricky system for me to implement so this took a bit longer for me to be able to do but I definitely learn a lot with using line traces and I feel a lot more comfortable with them now.
+
+<iframe src="https://blueprintue.com/render/m3a5dw1b/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 11. Gun mechanic code in First person.<p>
+
+Once that had been finished I was able to move on to the score system(Score system in Unreal Engine 5 in under 4 minutes, 2022) where the player sprays the money and can get a score up to 100 and then it changes the material of the money to look wet. Then the player can move on to the next set of money and add an extra increment of 100 to their score to be able to try and get the highest score before the police come and start searching for them.
+
+<iframe src="https://blueprintue.com/render/gkkcxhu0/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 12. Score widget code <p>
+
+<iframe src="https://blueprintue.com/render/2ho7g9tx/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 13. Money score system.<p>
+
+I made a key card system for a door where the player has to pick up the key card and have it in their inventory to be able to open the door in front.This was quite easy to pick up in the tutorial that I followed as it explained it in depth.(How To Make Keycard Doors | Unreal Engine 5 Tutorial, 2024)
+
+<iframe src="https://blueprintue.com/render/wlii91jo/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 14. Code which allows the player to pick up the keycard and destroys it once picked up<p>
+
+<iframe src="https://blueprintue.com/render/dch6u-r5/" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://blueprintue.com/render/zr8slorw/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 15. code which checks for the keycard and allows player through<p>
+
+Once all the game mechanics were pretty much done I then decided to work on the AI spawn system and the timer which when the timer ended the AI (police) were spawned.
+
+<iframe src="https://blueprintue.com/render/is9xnb3o/" scrolling="no" allowfullscreen></iframe>
+
+<iframe src="https://blueprintue.com/render/y38q9byq/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 16. Timer and spawn system.<p>
+
+ I had to implement the AI to roam around(AI Random Roam | Basic Roaming - Unreal Engine 5 Tutorial, 2022) and also search for the player character (AI Sight Detection And Chase - Unreal Engine 5 Tutorial, 2022)
+ <iframe src="https://blueprintue.com/render/rexdstv5/" scrolling="no" allowfullscreen></iframe>
+ <p>Figure 17. AI roaming and searching code<p>
+
+  If they found them then when they interacted with player a game over screen would appear on the game and the player would have to restart the game symbolising that they've been caught.(Player Catching AI UE5.1 | Unreal Simple Enemy AI 3 of 3, 2023).
+  
+  <iframe src="https://blueprintue.com/render/me271vei/" scrolling="no" allowfullscreen></iframe>
+  <p>Figure 18. Game over screen displayed when AI catches player<p>
+  
+  <iframe src="https://blueprintue.com/render/dsrydfme/" scrolling="no" allowfullscreen></iframe>
+  <p>Figure 19. Allows the player to press any button to restart<p>
+
+   This was quite tricky to implement because the timer system had to link with spawning the AI and I struggled a little bit with that but now I feel a bit more confident and I feel like I would definitely explore this area more in the future.
+
+I also added an enemy tag onto the AI so that when the particles came into contact with the AI it would kill them and set off a ragdoll physics to show that they had died and then it would destroy the AI. This is so that the player would be able to shoot back at the AI and any other NPCs they needed to shoot relating to the story of the game. 
+
+<iframe src="https://blueprintue.com/render/7o3av1mu/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 20. Gun/particles checking for enemy tag and destroying the actor if they come into contact<p>
+
+<iframe src="https://blueprintue.com/render/lr4mv7my/" scrolling="no" allowfullscreen></iframe>
+<p>Figure 21. AI dying when particles hit them code<p>
+
 
 ### What creative or technical approaches did you use or try, and how did this contribute to the outcome?
 
