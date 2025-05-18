@@ -44,9 +44,15 @@ When we were given this project I started by making a figma board (Figma, s.d.) 
 
 After the planning had been done for this project, I started on making the code for a computer screen where the player presses E to interact with it and the UI comes up in the viewport to show the status of whether the Vault is locked or unlocked.
 <img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-4.png?token=GHSAT0AAAAAADDA7RNHWWFDEMK4QEI5JLHQ2BJ2E3A" alt="Computer screen">
-<p>Figure 3. Computer screen code for when the player interacts with it.<p>
+<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-5.png?token=GHSAT0AAAAAADDA7RNGSUTQ35YDUEQPMM2C2BJ2ITA" alt="Computer screen UI">
+<p>Figure 3. Computer screen code for when the player interacts with it and the UI which appears.<p>
 
-![alt text](image-5.png)
+I then changed the UI of the existing dialogue system to make it match the theme of our game.
+
+![ ](image-6.png)
+
+
+
 <img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image.png?token=GHSAT0AAAAAADDA7RNHYUU2MY2JXTTZJNIQ2BJZ2RA" alt="Open door code">
 <p>Figure .</p> 
 
