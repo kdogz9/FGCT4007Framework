@@ -31,14 +31,18 @@ I found these sources beneficial as a developer because it allowed me to broadca
 
 ### What was the process of completing the task? What influenced your decision making?
 
+
+
+When we were given this project I started by making a figma board (Figma, s.d.) and I was given a flowchart on how the game would exactly plan out. Then from this flow chart, I broke it down and found the game mechanics that we would need and I wrote it on a sticky note on the side of the flow chart so that I could see exactly what needed to be done. I then just went through the list 1 by 1 allowing myself to have enough time to be able to implement all these mechanics and plan accordingly to what I would do each week so that we were on track.
+<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-1.png?token=GHSAT0AAAAAADDA7RNG7CVHB2A2VCKOF4FI2BJZVNQ" alt="Figma board">
+<p>Figure 1. Figma board of game mechanics and flow chart.<p>
+
+ We also had a Milanote (Campbell, s.d.) where we have all of our sources and our ideas and our planning down as well so that we were all on the same track. This avoided miscommunication which allowed the group to flow quite well when it came to making the game.
+
+ ![ ](image-3.png)
+
 <p><img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image.png?token=GHSAT0AAAAAADDA7RNGWRXBDHI35ATNOSL22BJZQOQ" alt="Open door code"></p>
 <p>Figure .</p> 
-
-When we were given this project I started by making a figma board (Figma, s.d.) and I was given a flowchart on how the game would exactly plan out. 
-![ ](image-2.png)
-Then from this flow chart, I broke it down and found the game mechanics that we would need and I wrote it on a sticky note on the side of the flow chart so that I could see exactly what needed to be done. I then just went through the list 1 by 1 allowing myself to have enough time to be able to implement all these mechanics and plan accordingly to what I would do each week so that we were on track. We also had a Milanote (Campbell, s.d.) where we have all of our sources and our ideas and our planning down as well so that we were all on the same track. This avoided miscommunication which allowed the group to flow quite well when it came to making the game.
-
-
 
 ### What creative or technical approaches did you use or try, and how did this contribute to the outcome?
 
