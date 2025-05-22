@@ -1,0 +1,20 @@
+ID_Own,IsPlayerSpeaking,Text,ID_Children,Trigger,StatToCheck,StatPointsNeeded,DiceRoll?,DiceRollValue,DiceFail_Children,DiceSuccess_Children
+0,False,H-hey whats with the water guns? ,"(2,1)",,,0,False,0,,
+1,True,"*Raise the gun*
+",(4),,,0,False,0,,
+2,True,"Tell us what you know or you'll be getting wet!
+",(3),,,0,False,0,,
+4,False,"PLEASE DONT SHOOT! 
+",(6),,,0,False,0,,
+3,False,"What I know about what??
+",(5),,,0,False,0,,
+6,True,"Then tell us what you know.
+",(8),,,0,False,0,,
+5,True,"The bank and the filth that runs this town!
+",(7),,,0,False,0,,
+8,False,"I'm sorry!! I don't know anything I swear!! Just please don't get me wet!
+",(10),,,0,False,0,,
+7,False,"I dont know man! but please just leave me alone!
+",(9),,,0,False,0,,
+10,False,End conversation,(),,,0,False,0,,
+9,False,End conversation,(),,,0,False,0,,

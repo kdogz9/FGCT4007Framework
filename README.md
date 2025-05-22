@@ -34,23 +34,23 @@ I found these sources beneficial as a developer because it allowed me to broadca
 
 
 When we were given this project I started by making a figma board (Figma, s.d.) and I was given a flowchart on how the game would exactly plan out. Then from this flow chart, I broke it down and found the game mechanics that we would need and I wrote it on a sticky note on the side of the flow chart so that I could see exactly what needed to be done. I then just went through the list 1 by 1 allowing myself to have enough time to be able to implement all these mechanics and plan accordingly to what I would do each week so that we were on track.
-<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-1.png?token=GHSAT0AAAAAADDA7RNHKEYG5DTSV3KPUMYI2BJ4JFQ" alt="Figma board">
+<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-1.png?token=GHSAT0AAAAAADELGQG4KAOFCXQSVLVQFNRO2BPF4QA" alt="Figma board">
 <p>Figure 1. Figma board of game mechanics and flow chart.<p>
 
  We also had a Milanote (Campbell, s.d.) where we have all of our sources and our ideas and our planning down as well so that we were all on the same track. This avoided miscommunication which allowed the group to flow quite well when it came to making the game.
 
- <img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-3.png?token=GHSAT0AAAAAADDA7RNG74HRA7SVFLDXXS4O2BJ4JQQ" alt="Milanote">
+ <img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-3.png?token=GHSAT0AAAAAADELGQG4CZD6ZICJV64L56ZI2BPF4ZA" alt="Milanote">
 <p>Figure 2. Milanote for each week of the project.<p>
 
 After the planning had been done for this project, I started on making the code for a computer screen where the player presses E to interact with it and the UI comes up in the viewport to show the status of whether the Vault is locked or unlocked.(UNREAL ENGINE 5 HOW TO PICKUP AND READ NOTES TUTORIAL, 2023)
 <iframe src="https://blueprintue.com/render/rs6p_6kl/" scrolling="no" allowfullscreen></iframe>
 
-<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-5.png?token=GHSAT0AAAAAADDA7RNHEB2K2FBPQHOPZLM62BJ4J4Q" alt="Computer screen UI">
+<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-5.png?token=GHSAT0AAAAAADELGQG424SSR33SNXR2I7QG2BPF5LA" alt="Computer screen UI">
 <p>Figure 3. Computer screen code for when the player interacts with it and the UI which appears.<p>
 
 I then changed the UI of the existing dialogue system to make it match the theme of our game.
 
-<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-6.png?token=GHSAT0AAAAAADDA7RNGOTY5OVME5BODFDWW2BJ4KRA" alt="NPC UI">
+<img src="https://raw.githubusercontent.com/kdogz9/FGCT4007Framework/refs/heads/main/image-6.png?token=GHSAT0AAAAAADELGQG4HPDCB4DTB3O75VT42BPF5XA" alt="NPC UI">
 <p>Figure 4. NPC UI
 
 After this I thought it would be a good idea to make normal doors  be interactive by using the e key as well as also having a code door and a key card door. I wanted to make it feel a bit more immersive by being able to open the other doors as well.(Open and Close Door Tutorial in Unreal Engine 5, 2024)
