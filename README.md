@@ -153,13 +153,12 @@ Here you can put links required for delivery of the task, ensure they are proper
 
 I think that we managed to fit the briefing quite well with having four different NPCs that affected the progress in the game meaning the player has to talk to all of the NPCs and interact with them to be able to find out the codes and where the key card is to be able to get to the vault for the money for example. We made our own lore behind the game as well which made the game quite religion heavy. I think this makes it a lot more interactive and feel like that there's depth to the game rather than it just being you go in get money. I also feel as a group we can communicated really well and everything that was needed was on time so this didn't stop the development or slow us down in any way so we were able to work quite effectively and efficiently.I also think we planned quite well so we were never lost during this whole process which made us be able to stay on task and the things that we implemented we're also on the right track.
 
-- What did not work well? What parts of the assignment that you felt did not fit the brief or ended up being lacklustre.
-
+ I feel like I could have developed the Mechanics a lot further and I feel like we could have also looked more into the games sources and taken a bit more inspiration from them to make it a more realistic bank heist game. I also feel that although communication was strong for the majority of it, there were some parts that were a bit weaker which ended up getting parts of the game in the last week and this was an extra level of stress which couldve been avoided.
 
 ### What would you do differently next time?
 
-- Are there any new approaches, methodologies or different software that you wish to incorporate if you have another chance?
-- Is there another aspect you believe should have been the focus?
+In the time frame given for this project I wasn't able to implement as many mechanics as I would have liked. If I had the chance to do this again I would probably add moving cars, maybe a couple more cut scenes to make it feel more like a bank heist game rather than just shooting the money.I mean our game is quite in depth but I feel like with a bit more time I wouldve been able to develop it further.
+
 
 ## Bibliography
 
